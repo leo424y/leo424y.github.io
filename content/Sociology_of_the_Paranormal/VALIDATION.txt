@@ -1,0 +1,3 @@
+Total Markdown files: 136
+Internal wikilinks checked: 730
+Missing internal links: 0
