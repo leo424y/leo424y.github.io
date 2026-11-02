@@ -8,7 +8,7 @@ configuration:
     provider: google
     tagId: G-182B21W1PC
   locale: en-US
-  baseUrl: leo424y.github.io
+  baseUrl: flyism.org
   ignorePatterns:
     - private
     - templates
