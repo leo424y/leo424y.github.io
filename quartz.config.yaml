@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: google
+    tagId: G-182B21W1PC
   locale: en-US
   baseUrl: leo424y.github.io
   ignorePatterns:
