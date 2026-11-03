@@ -58,7 +58,7 @@ plugins:
         light: github-light
         dark: github-dark
       keepBackground: false
-    order: 30
+    order: 20
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
@@ -74,7 +74,7 @@ plugins:
       enableYouTubeEmbed: true
       enableVideoEmbed: true
       enableCheckbox: true
-    order: 20
+    order: 30
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
     order: 40
