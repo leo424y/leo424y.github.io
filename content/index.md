@@ -18,10 +18,10 @@ Flyism, living with equanimity.
 
 愛洋洋：平等看待所感知到的世界
 
-歡迎來信贊助
-
-### 近期募資活動
+### 近期活動
 
 - 2027(暫定) 訪問泰國功德主義(Bunniyom/Meritism)社群 [[Santi_Asoke]] 
 
-- 2028(暫定) 訪問印度 Vipassana 社群，進行 [[Dhamma_Service]]
+- 2028(暫定) 訪問印度 Dhamma.org Vipassana 社群，進行 [[Dhamma_Service]]
+
+活動交通費募資中，歡迎來信贊助
