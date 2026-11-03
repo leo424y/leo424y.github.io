@@ -95,7 +95,7 @@
 - 公共討論：探索如何讓不同立場的人可以共同學習，而不是只追求意見一致。
     
 
-相關議題：[[Decentralization|去中心化]]、[[Rasch_model|拉希模型]]、[[Universal_basic_income|全民基本收入]]、[[AI_Alignment|AI 對齊]]。
+相關議題：[[Decentralization|去中心化]]、[[Rasch_model|拉希模型]]、[[Universal_basic_income|全民基本收入]]、[[AI_alignment|AI 對齊]]。
 
 ## 六、即興藝術與身體探索
 

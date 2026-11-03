@@ -3,7 +3,7 @@ title: 愛洋洋聯盟百科 Living with equanimity | Flyism.org
 ---
 # 愛洋洋：平等看待所感知到的世界
 
-愛洋洋聯盟由一起學習平靜地活的人組成
+愛洋洋聯盟由一群學習平靜地生活的人組成
 
 百科收錄供成員關心議題的知識卡片
 
@@ -32,12 +32,11 @@ Be Happy!
 核心方向：減少工作與消費，增加覺察、學習、自由、連結與互助。
 
 詳見 [[Flyism|愛洋洋]]
-
 ### 近期活動
 
-- 2027(暫定) 訪問泰國功德主義(Bunniyom/Meritism)社群 [[Santi_Asoke]] 
+- 2027(暫定) 訪問泰國，含功德主義(Bunniyom/Meritism)社群 [[Santi_Asoke]] 、 [[Dhamma.org|內觀社群]]，進行 [[Dhamma_Service|法工服務]]
 
-- 2028(暫定) 訪問印度 Dhamma.org Vipassana 社群，進行 [[Dhamma_Service]]
+- 2028(暫定) 訪問印度，含 [[Dhamma.org|內觀社群]] 
 
 活動交通費募資中，歡迎來信贊助
 
