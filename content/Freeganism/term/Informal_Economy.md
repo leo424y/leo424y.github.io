@@ -1,0 +1,1 @@
+Informal economy 指未被正式制度充分登記、監管或保障的經濟活動；它並非沒有規則或沒有經濟價值。拾荒、街頭工作與部分交換網絡可能位於正式與非正式制度的交界。理解它需要檢視收入、勞動權利、治理與組織能力。相關概念：[[Waste_Picker]]、[[Mutual_Aid]]、[[Alternative_Food_Networks]]。 本概念亦可從 [[Freeganism]] 的整體脈絡理解。

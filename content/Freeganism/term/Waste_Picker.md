@@ -1,0 +1,1 @@
+Waste picker 是透過收集、分類與出售可回收或可再用廢棄物維生的人。不同地區有不同稱呼與組織方式，例如巴西的 catadores。這類工作者常處於非正式經濟，可能面臨低收入、危險環境與政策排除，不能被簡化成自願反消費者。相關概念：[[Informal_Economy]]、[[Circular_Economy]]、[[Gleaning]]。 本概念亦可從 [[Freeganism]] 的整體脈絡理解。

@@ -1,0 +1,1 @@
+Food justice（食物正義）關注食物系統中的權力、資源與風險如何分配，包含誰能取得營養食物、誰承受低薪勞動與環境傷害、誰有權參與決策。它不只追求食物數量，也重視尊嚴、勞動權與制度公平。相關概念：[[Food_Insecurity]]、[[Alternative_Food_Networks]]、[[Waste_Picker]]、[[Food_Not_Bombs]]。 本概念亦可從 [[Freeganism]] 的整體脈絡理解。
