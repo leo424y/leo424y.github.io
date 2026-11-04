@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Flyism
+  pageTitleSuffix: " | Flyism"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: google
     tagId: G-182B21W1PC
-  locale: en-US
+  locale: "zh-TW"
   baseUrl: flyism.org
   ignorePatterns:
     - private
@@ -231,8 +231,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/leo424y/leo424y.github.io
+        LINE Community: https://line.me/ti/g/cpqxTiTmzf
     layout:
       position: footer
       priority: 50
