@@ -1,111 +1,157 @@
-# 《世俗主義：多元世界中的國家、宗教與公共生活》
+# 世俗主義：國家、宗教與多元生活的全球比較
 
-本書把 **Secularism（世俗主義）** 當作一個全球比較問題：不同社會如何安排國家、宗教、信仰自由、公共生活與公民平等？世俗主義究竟是政教分離、國家中立、宗教退出公共領域，還是保障每個人可以相信、不相信、改變信仰與共同生活的一套制度原則？
+## 導讀
 
-本書的核心結論是：**世俗主義沒有唯一的制度模板；它是一組在特定歷史中形成、並持續被爭論與重新實作的政治安排。** 研究它時，必須區分「世俗」「世俗性」「世俗化」與「世俗主義」，同時檢查制度原則和實際生活經驗。
+本書以 **Secularism（世俗主義）** 為主題，從政治哲學、憲法與法律、社會學、人類學、宗教研究及生活經驗出發，整理全球不同地區如何安排國家權力、宗教組織、個人良心自由與公共生活。全書不將歐美政教分離模式視為普遍標準，而是比較法國的 *laïcité*、美國式憲法政教條款、印度的原則性距離、土耳其的國家宗教管理、日本的國家宗教活動限制、印尼的 Pancasila、塞內加爾的世俗憲法與蘇菲教團政治、南非的宗教多元、墨西哥與巴西的拉丁美洲世俗憲政，以及台灣與中國的不同經驗。
 
-## 全書導讀
+本書首先釐清三個容易混淆的概念：**世俗主義**是政治原則或制度安排；**世俗化**是社會與宗教關係的變遷，可能包含制度分化、個人信仰變化與宗教私人化等不同過程；**世俗性**則描述人們生活其中的世俗條件。三者彼此相關，但不能互換。世俗主義也不等於無神論，更不等於宗教必須消失於公共生活。
 
-第一部分建立概念工具。[[Concept_Map_of_Secularism]] 先區分世俗性、世俗化、制度分化、宗教自由與公共宗教。這個區分尤其重要：制度分化不必然導致信仰衰退；國家宣稱世俗也不表示宗教已退出公共生活。核心閱讀是 [[Secular_Secularity_Secularization_and_Secularism_Are_Different_Analytical_Levels]]、[[Secularization_Does_Not_Mean_Religious_Belief_Must_Decline]] 與 [[Religious_Freedom_Includes_Belief_Nonbelief_and_Changing_Belief]]。
+全書的規範主軸是：世俗制度的價值不應以宗教是否可見來衡量，而應檢驗所有人能否享有平等公民地位、良心自由與不受支配的生活空間。這包括有神論者、非有神論者、無神論者、不可知論者、改變信仰者，以及不願表態或不認同任何宗教者。國際人權法對良心自由的解釋明確涵蓋這些立場。
 
-第二部分討論理論與批判。Talal Asad 追問現代國家如何建構「宗教」與「世俗」的界線；José Casanova 拆解世俗化理論並分析宗教去私人化；Charles Taylor 從西方思想史解釋不信仰成為可行選項的文化條件；Rajeev Bhargava 則以「原則性距離」提出情境式國家中立。可依序閱讀 [[Talal_Asad_Formations_of_the_Secular_2003]]、[[Jose_Casanova_Secular_Secularizations_Secularisms_2007]]、[[Jose_Casanova_Public_Religions_in_the_Modern_World_1994]]、[[Charles_Taylor_A_Secular_Age_2007]] 及 [[Rajeev_Bhargava_Reimagining_Secularism_2019]]。批判性對讀可再讀 [[Saba_Mahmood_Religious_Difference_in_a_Secular_Age_2015]]、[[Hussein_Agrama_Secularism_Sovereignty_Indeterminacy_2010]]、[[William_Connolly_Some_Theses_on_Secularism_2011]] 與 [[Ashis_Nandy_Politics_of_Secularism_1990]]。
-
-第三部分進行全球比較。歐洲以法國 *laïcité* 為例，分析國家中立、教育與宗教表達；北美以美國第一修正案的設立條款與自由行使條款為例；南亞以印度的原則性距離為核心；土耳其展示國家管理宗教的世俗主義；中東埃及研究呈現世俗法律與宗教少數者權利的複雜關係；東亞比較台灣民主化後的宗教自由、中國黨國宗教治理與日本戰後政教分離；東南亞以印尼 Pancasila 為例；非洲以塞內加爾與尼日利亞為案例；拉丁美洲則納入墨西哥革命與反教權主義。建議搭配 [[Global_Regional_Comparisons]] 及 [[Comparative_Models_of_State_Religion_Relations]] 閱讀。
-
-第四部分轉向日常生活與實踐。宗教可以參與公共服務與民主協商；公共教育可以不傳授特定宗教教義，同時維持價值教育；禪修等實踐也可能跨越宗教與世俗分類。這不是把宗教內容任意刪除，而是追蹤傳統如何被翻譯、重新定位與制度化。請讀 [[Buddhism_Meditation_and_Secular_Translation]]、[[Meditation_Can_Cross_Religious_and_Secular_Categories_Without_Losing_History]] 與 [[Public_Education_Can_Be_Nonsectarian_Without_Being_Value_Empty]]。
-
-第五部分整理規範評估與可行行動。世俗主義需要同時防止宗教機構支配個人，也防止國家以中立之名壓迫宗教與不信仰者。最重要的評估原則是良心自由、公民平等、民主參與、透明問責與反支配。見 [[Normative_Debates_and_Critical_Perspectives]] 及 [[Secularism_Must_Be_Judged_By_Freedom_Equality_and_Non_Domination]]。
+另一方面，本書也不把世俗主義浪漫化。國家以中立之名制定的法律與行政分類，可能讓某些宗教形式更容易被承認，或使少數群體承擔不成比例的成本。法國穆斯林的訪談研究、埃及宗教少數的民族誌，以及印尼宗教身份制度等材料，都提醒我們將法律原則與生活經驗並讀。批判世俗治理的排除效果，不必然等於放棄世俗主義；它也可能是要求世俗制度更忠於平等自由。
 
 ## 建議閱讀路徑
 
-### 入門：先學會區分概念
-1. [[Concept_Map_of_Secularism]]
-2. [[Secular_Secularity_Secularization_and_Secularism_Are_Different_Analytical_Levels]]
-3. [[Secularization_Does_Not_Mean_Religious_Belief_Must_Decline]]
-4. [[Secularism_Is_Not_A_Single_Institutional_Model]]
+1. **先釐清詞彙**：閱讀 [[世俗主義核心概念地圖]]，再看 [[世俗主義]]、[[世俗化]]、[[世俗性]]、[[政教分離]]、[[良心自由]] 與 [[宗教自由或信仰自由]]。掌握政治制度、社會變遷與生活條件的差別。
+2. **建立理論框架**：依序閱讀 [[世俗主義是一組安排國家與宗教關係的政治原則]]、[[世俗不是宗教退場後的中性空間而有其歷史系譜]]、[[世俗化理論應拆分制度分化信仰衰退與宗教私人化]]、[[世俗時代改變的是信仰條件而非單純信仰人數]] 與 [[最小世俗主義試圖建立可跨文化辯護的憲政底線]]。
+3. **比較制度案例**：閱讀 [[全球世俗主義制度模型比較地圖]]，以法國、美國、印度、土耳其、日本、印尼、塞內加爾、南非、墨西哥、巴西、台灣與中國案例比較國家—宗教關係。
+4. **理解公共宗教與非宗教生活**：閱讀 [[世俗化宗教公共性與後世俗理論地圖]]，並思考 [[宗教公共性不必然否定制度分化]]、[[公共理性應要求理由可受檢驗而非要求身份不可見]] 與 [[非宗教不等於沒有價值實踐或共同生活]]。
+5. **從批判進入生活經驗**：閱讀 [[世俗主義批判與生活經驗概念地圖]]，特別比較法國穆斯林訪談、埃及宗教少數民族誌、南非宗教多元與印尼宗教身份制度。
+6. **轉化為研究與實踐**：從 idea 資料夾選擇一項行動，例如建立全球比較表、訪談非宗教者、檢查台灣公共服務的良心自由，或設計宗教與非宗教者皆可平等參與的公共對話。
 
-### 理論：理解概念如何形成與受到批判
-1. [[Talal_Asad_Formations_of_the_Secular_2003]]
-2. [[Jose_Casanova_Secular_Secularizations_Secularisms_2007]]
-3. [[Jose_Casanova_Public_Religions_in_the_Modern_World_1994]]
-4. [[Charles_Taylor_A_Secular_Age_2007]]
-5. [[Rajeev_Bhargava_Reimagining_Secularism_2019]]
-6. [[Saba_Mahmood_Religious_Difference_in_a_Secular_Age_2015]]
+## 全書的核心問題
 
-### 比較：從制度條文走向社會經驗
-1. [[Comparative_Models_of_State_Religion_Relations]]
-2. [[France_Laicite_Official_Explanation]] 與 [[United_States_First_Amendment_Religion]]
-3. [[India_Constitution_and_Secularism]] 與 [[Turkey_Laiklik_and_State_Management_of_Religion]]
-4. [[Senegal_Laicite_and_Sufi_Public_Life]] 與 [[Indonesia_Pancasila_and_Religious_Citizenship]]
-5. [[Taiwan_Religious_Freedom_and_Neosacred_State]]、[[China_Religious_Regulation_and_Party_State]]、[[Japan_Postwar_Secularism_and_State_Shinto]]
+- 國家不設國教是否足以構成世俗主義？
+- 國家介入宗教，是保護弱勢、管理宗教，還是製造新的支配？
+- 宗教團體參與公共生活，何時是民主多元，何時變成宗教特權？
+- 「中立」規則是否掩蓋多數文化的預設？
+- 良心自由是否真正包含不信仰、改變信仰與拒絕表態？
+- 憲法承諾如何在學校、醫療、工作、家庭法與日常公共服務中實現？
 
-### 實踐：把研究轉成問題與行動
-1. [[Normative_Debates_and_Critical_Perspectives]]
-2. [[Interview_Practitioners_About_How_They_Translate_Religion_and_Secularism]]
-3. [[Build_a_Comparative_Secularism_Matrix_Based_on_Rights_and_Governance]]
-4. [[Audit_Public_Institutions_For_Hidden_Majority_Religion_Norms]]
-5. [[Use_a_Dual_Risk_Test_For_Secular_Policy]]
+## 閱讀時的證據原則
 
-## 核心命題
+本書混合法律原典、學術專書、同儕審查論文、跨國資料與質性訪談。法律原典可以說明制度承諾，不能單獨證明落實情形；訪談與民族誌可呈現經驗，不能直接代表全體人口；跨國統計與文獻計量能顯示模式，也需要注意分類、抽樣與研究語言的限制。遇到相互衝突的來源，應保留差異並追查研究對象、方法和時間，而不是強行合併成單一結論。
 
-* **概念要分層**：世俗、世俗性、世俗化與世俗主義不是同義詞。
-* **歷史不可外推**：歐洲的政教關係史不能直接成為全球社會的標準路徑。
-* **制度不等於人口趨勢**：國家與宗教分化，不代表信仰必然衰退。
-* **中立需要檢驗**：國家可能以中立之名建立宗教分類、選擇性管理或隱性多數文化。
-* **自由涵蓋不信仰**：信仰、改變信仰與不信仰都應受到良心自由保障。
-* **公共宗教可以民主參與**：宗教參與公共生活不自動等於神權政治，仍需接受平等、法治與民主問責。
-* **世俗主義必須雙向防支配**：既防止宗教機構壟斷公權力，也防止國家以世俗名義壓迫信仰。
+研究範圍截至 **2026 年 11 月**。新近研究的出版日期與資料蒐集時間不同，引用時應以來源原文為準；特別是 2026 年法國訪談研究，其訪談在 2023–2024 年完成、文章於 2026 年出版。
 
-## 資料夾說明
-
-- `data/`：文獻筆記，收錄書籍、論文、訪談、官方憲法與政策文件。來源連結保留於每張卡片。
-- `note/`：永久筆記，每張卡片集中處理一個可重組的論點，並與文獻和其他永久筆記建立連結。
-- `idea/`：靈感筆記，把研究轉成訪談、比較、教育與公共實踐的延伸方向。
-- `term/`：概念定義，適合作為檢索與概念辨析的入口。
-- `moc/`：概念地圖，以 Mermaid 呈現概念、制度與區域案例之間的關係。
-
-## 文獻地圖
-
-### 理論、概念與訪談
-[[Talal_Asad_Formations_of_the_Secular_2003]]、[[Ovamir_Anjum_Interview_with_Talal_Asad]]、[[Charles_Taylor_Problems_around_the_Secular_2007]]、[[Charles_Taylor_A_Secular_Age_2007]]、[[Jose_Casanova_Secular_Secularizations_Secularisms_2007]]、[[Jose_Casanova_Public_Religions_in_the_Modern_World_1994]]、[[Rajeev_Bhargava_Reimagining_Secularism_2019]]、[[Ahmet_Kuru_Passive_and_Assertive_Secularism_2007]]、[[Saba_Mahmood_Religious_Difference_in_a_Secular_Age_2015]]、[[Hussein_Agrama_Secularism_Sovereignty_Indeterminacy_2010]]、[[William_Connolly_Some_Theses_on_Secularism_2011]]、[[Ashis_Nandy_Politics_of_Secularism_1990]]、[[Oxford_Handbook_of_Secularism_2017]]、[[Multiple_Secularities_Global_Comparative_Research]]。
-
-### 全球區域與制度案例
-[[France_Laicite_Official_Explanation]]、[[United_States_First_Amendment_Religion]]、[[UN_Freedom_of_Religion_or_Belief_Article_18]]、[[India_Constitution_and_Secularism]]、[[Turkey_Laiklik_and_State_Management_of_Religion]]、[[Senegal_Laicite_and_Sufi_Public_Life]]、[[Indonesia_Pancasila_and_Religious_Citizenship]]、[[Taiwan_Religious_Freedom_and_Neosacred_State]]、[[Japan_Postwar_Secularism_and_State_Shinto]]、[[China_Religious_Regulation_and_Party_State]]、[[Nigeria_Quest_for_a_Secular_State_2025]]、[[Mexico_Anticlericalism_and_Secular_State_Building]]、[[Mamadou_Diouf_Tolerance_Democracy_and_Sufis_in_Senegal_2013]]。
-
-### 佛教與禪修
-[[David_McMahan_Buddhism_Meditation_and_Global_Secularisms_2017]]、[[Usha_Modak_Secularism_and_Vipassana]]。
-
-## 概念筆記索引
-
-[[Secularism]]、[[Secularity]]、[[Secularization]]、[[The_Secular]]、[[Laicite]]、[[Laiklik]]、[[Freedom_of_Religion_or_Belief]]、[[State_Neutrality]]、[[Principled_Distance]]、[[Separation_of_Church_and_State]]、[[Public_Religion]]、[[Deprivatization_of_Religion]]、[[Assertive_Secularism]]、[[Passive_Secularism]]、[[Postsecularism]]、[[Multiple_Modernities]]、[[Civil_Religion]]、[[Anti_Clericalism]]、[[Nonreligion]]、[[Institutional_Differentiation]]、[[Religion_Making]]、[[深層多元主義]]、[[宗教自由]]、[[不信仰]]、[[法國式世俗主義]]、[[印度世俗主義]]、[[土耳其世俗主義]]、[[多重世俗性]]、[[國家宗教管理]]、[[反支配]]。
-
-## 概念地圖索引
-
-[[Concept_Map_of_Secularism]]、[[Comparative_Models_of_State_Religion_Relations]]、[[Global_Regional_Comparisons]]、[[Normative_Debates_and_Critical_Perspectives]]、[[Buddhism_Meditation_and_Secular_Translation]]
-
-## 研究界線與更新提醒
-
-本書是第一版研究型筆記庫，不是各國法律意見書，也不宣稱已窮盡所有地區與語言的資料。官方文件呈現制度自我描述；學術研究有各自的方法與限制；訪談及社群文章則呈現特定作者或參與者的觀點，三者不能互相替代。涉及當代法律、法院判決與政策的內容，使用時應回到官方最新文本核對。
-
-部分文獻付費牆只能取得摘要或書籍介紹；筆記已盡量標示來源性質，不將摘要推論成全文結論。全球比較尤其需要增加阿拉伯語、法語、西班牙語、印尼語、日語及中文在地研究，並增加受影響群體的第一人稱訪談。
-## 完整卡片索引（全庫）
+## 卡片索引
 
 ### 文獻筆記
-
-[[Ahmet_Kuru_Passive_and_Assertive_Secularism_2007]]、[[Ashis_Nandy_Politics_of_Secularism_1990]]、[[Charles_Taylor_A_Secular_Age_2007]]、[[Charles_Taylor_Problems_around_the_Secular_2007]]、[[China_Religious_Regulation_and_Party_State]]、[[David_McMahan_Buddhism_Meditation_and_Global_Secularisms_2017]]、[[France_Laicite_Official_Explanation]]、[[Hussein_Agrama_Secularism_Sovereignty_Indeterminacy_2010]]、[[India_Constitution_and_Secularism]]、[[Indonesia_Pancasila_and_Religious_Citizenship]]、[[Japan_Postwar_Secularism_and_State_Shinto]]、[[Jose_Casanova_Public_Religions_in_the_Modern_World_1994]]、[[Jose_Casanova_Secular_Secularizations_Secularisms_2007]]、[[Mamadou_Diouf_Tolerance_Democracy_and_Sufis_in_Senegal_2013]]、[[Mexico_Anticlericalism_and_Secular_State_Building]]、[[Multiple_Secularities_Global_Comparative_Research]]、[[Nigeria_Quest_for_a_Secular_State_2025]]、[[Ovamir_Anjum_Interview_with_Talal_Asad]]、[[Oxford_Handbook_of_Secularism_2017]]、[[Rajeev_Bhargava_Reimagining_Secularism_2019]]、[[Saba_Mahmood_Religious_Difference_in_a_Secular_Age_2015]]、[[Senegal_Laicite_and_Sufi_Public_Life]]、[[Taiwan_Religious_Freedom_and_Neosacred_State]]、[[Talal_Asad_Formations_of_the_Secular_2003]]、[[Turkey_Laiklik_and_State_Management_of_Religion]]、[[UN_Freedom_of_Religion_or_Belief_Article_18]]、[[United_States_First_Amendment_Religion]]、[[Usha_Modak_Secularism_and_Vipassana]]、[[William_Connolly_Some_Theses_on_Secularism_2011]]
+- [[2026年跨國文獻分析顯示世俗化研究同時關注制度與個人層次]]
+- [[世俗不是宗教退場後的中性空間而有其歷史系譜]]
+- [[世俗主義是一組安排國家與宗教關係的政治原則]]
+- [[世俗化理論應拆分制度分化信仰衰退與宗教私人化]]
+- [[世俗時代改變的是信仰條件而非單純信仰人數]]
+- [[世俗治理可能在承諾平等時重製宗教少數的不平等]]
+- [[中國黨國宗教治理不同於自由主義政教分離]]
+- [[南非以信仰自由與公平自願原則承接宗教多元]]
+- [[印尼在神性國家原則與宗教自由保障之間存在制度張力]]
+- [[印度以原則性距離回應宗教多元與制度化支配]]
+- [[台灣宗教多元與寬容世俗國家提供東亞比較案例]]
+- [[國際人權法保障有神論無神論與不信仰的平等自由]]
+- [[土耳其世俗主義以國家管理宗教而非完全退出宗教領域]]
+- [[塞內加爾的憲法世俗性與蘇菲教團政治互動並存]]
+- [[墨西哥的世俗共和國是教會國家衝突與憲政協商的歷史結果]]
+- [[巴西憲法禁止國家建立宗教但保留公共利益合作空間]]
+- [[後世俗公共領域需要避免宗教語言被單向排除]]
+- [[日本憲法以宗教自由條款限制國家宗教活動]]
+- [[最小世俗主義試圖建立可跨文化辯護的憲政底線]]
+- [[東南亞相近社會條件可以形成不同宗教政體]]
+- [[法國1905年政教分離法同時保障良心自由與限制國家宗教特權]]
+- [[法國穆斯林的世俗經驗受到性別種族化與公民身份交織影響]]
+- [[美國以不設國教與自由行使條款構成雙軌宗教憲政]]
 
 ### 永久筆記
-
-[[A_Secular_Republic_Can_Have_a_Religious_Public_Sphere]]、[[Deep_Pluralism_Must_Address_Emotion_and_Everyday_Practices]]、[[French_Laicite_Protects_Conscience_But_Can_Also_Exclude_Public_Expressions]]、[[India_Shows_That_Secularism_Can_Be_Contextual_Without_Being_Theocratic]]、[[Indonesia_Challenges_the_Binary_of_Religious_State_and_Secular_State]]、[[Meditation_Can_Cross_Religious_and_Secular_Categories_Without_Losing_History]]、[[Public_Education_Can_Be_Nonsectarian_Without_Being_Value_Empty]]、[[Religion_Returning_to_Public_Life_Does_Not_Mean_Modernity_Has_Failed]]、[[Religious_Freedom_Includes_Belief_Nonbelief_and_Changing_Belief]]、[[Secular_Categories_Can_Reshape_Religious_Identity]]、[[Secular_Secularity_Secularization_and_Secularism_Are_Different_Analytical_Levels]]、[[Secularism_Is_Not_A_Single_Institutional_Model]]、[[Secularism_Must_Be_Judged_By_Freedom_Equality_and_Non_Domination]]、[[Secularization_Does_Not_Mean_Religious_Belief_Must_Decline]]、[[State_Atheism_Does_Not_Mean_The_State_Withdraws_From_Religion]]、[[State_Neutrality_Does_Not_Require_Mechanical_Equal_Distance_From_All_Religions]]、[[Taiwanese_Religious_Freedom_Must_Be_Read_Through_Authoritarianism_and_Democratization]]、[[The_Principled_Distance_Model_Treats_Equality_As_Contextual_Judgment]]、[[The_State_Is_Not_A_Neutral_Observer_Outside_Religion]]、[[世俗不是宗教消失後的中性空間]]、[[世俗主義不只是一套法律也包含日常習慣]]、[[世俗主義需要以地方歷史脈絡理解]]、[[世俗分類具有歷史性而非普世固定性]]、[[世俗制度的形成可能包含國家強制]]、[[世俗化可以是翻譯與重新配置而非單純刪除宗教]]、[[世俗國家仍可能建構公共神聖性]]、[[世俗性包含不信成為可行選項的文化條件]]、[[世俗法律可能在保障平等時重新製造宗教差異]]、[[傳統共同體的寬容也需要檢視內部權力]]、[[公共領域需要容納宗教與非宗教公民]]、[[反教權主義不等於宗教自由]]、[[國家中立不等於公共空間完全沒有宗教]]、[[國家中立必須檢查文化傳統中的宗教特權]]、[[宗教多元社會必須同時保障多數與少數者]]、[[宗教少數者的平等需要檢驗制度執行]]、[[宗教與政治邊界是治理中持續協商的結果]]、[[政教分離不代表宗教自由只有一種制度形式]]、[[社會寬容不能取代法律平等保障]]、[[美國世俗主義以不設國教與自由行使並行]]、[[被動世俗主義與強勢世俗主義處理公共宗教的方式不同]]
+- [[世俗主義的核心是平等公民地位而非單一制度形式]]
+- [[世俗化不是必然朝無宗教社會直線前進]]
+- [[世俗政策的公平性要從受影響者的生活後果評估]]
+- [[世俗治理也會生產宗教分類與規範]]
+- [[全球比較研究需要避免把西方經驗當成預設常態]]
+- [[公共理性應要求理由可受檢驗而非要求身份不可見]]
+- [[原則性距離要求國家依情境介入而不形成宗教支配]]
+- [[國家中立不代表公共制度沒有文化預設]]
+- [[國家可以與宗教組織合作但不能授予不平等特權]]
+- [[國家無神論不等於保障良心自由的世俗主義]]
+- [[多元宗教社會需要平等承認也需要自願參與的制度設計]]
+- [[宗教公共性不必然否定制度分化]]
+- [[政教分離是不同制度選擇而不是單一可複製模型]]
+- [[殖民歷史影響現代世俗制度的概念來源]]
+- [[法律上的平等不必然帶來生活中的平等]]
+- [[良心自由同時包含信仰自由與不信仰自由]]
+- [[非宗教不等於沒有價值實踐或共同生活]]
+- [[世俗化是社會變遷而不是單一政治制度]]
+- [[世俗性描述人們如何生活在世俗條件之中]]
+- [[最小世俗主義應保障平等自由與非支配]]
+- [[多元世俗主義承認不同社會不會複製同一政教模式]]
+- [[世俗主義不應被縮減為國家與宗教的絕對分離]]
+- [[法國的 laïcité 必須同時從法律原則與生活經驗理解]]
+- [[宗教多元需要平等承認也需要自願參與的制度設計]]
+- [[多元宗教社會需要把少數者經驗納入制度評估]]
+- [[政教分離的歷史常是權力協商而非理性線性進步]]
+- [[國家分類會影響誰能被看見為合法的宗教主體]]
+- [[宗教治理可能以中立之名形成官方宗教]]
+- [[世俗主義在跨文化移動時會被重新翻譯與實踐]]
 
 ### 靈感筆記
-
-[[Audit_Public_Institutions_For_Hidden_Majority_Religion_Norms]]、[[Build_a_Comparative_Secularism_Matrix_Based_on_Rights_and_Governance]]、[[Compare_Freedom_From_Religion_With_Freedom_Of_Religion_In_Practice]]、[[Create_a_Local_History_Timeline_Before_Using_Global_Secularism_Labels]]、[[Create_a_Nonsectarian_Meditation_Course_Description_With_Transparent_Lineage]]、[[Develop_a_Secularism_Literacy_Workshop_For_Civic_Education]]、[[Interview_Practitioners_About_How_They_Translate_Religion_and_Secularism]]、[[Map_Who_Gets_To_Define_Religion_In_Administrative_Systems]]、[[Study_Public_Religion_As_Civic_Participation_Not_Only_As_Threat]]、[[Use_a_Dual_Risk_Test_For_Secular_Policy]]
+- [[以台灣日常公共服務測試良心自由是否真正中立]]
+- [[以生活經驗補足憲法條文的比較研究]]
+- [[建立一張六維度全球世俗主義比較表]]
+- [[建立多語世俗主義詞彙對照與概念史]]
+- [[把宗教服飾政策改用必要性與差異影響檢核]]
+- [[為公共機構設計公平自願的宗教合作原則]]
+- [[訪談非宗教者如何形成倫理與共同生活]]
+- [[設計一場宗教與非宗教者都能參與的公共對話]]
+- [[追蹤非宗教者與宗教少數的法律地位變化]]
 
 ### 概念筆記
-
-[[Anti_Clericalism]]、[[Assertive_Secularism]]、[[Civil_Religion]]、[[Deprivatization_of_Religion]]、[[Freedom_of_Religion_or_Belief]]、[[Institutional_Differentiation]]、[[Laicite]]、[[Laiklik]]、[[Multiple_Modernities]]、[[Nonreligion]]、[[Passive_Secularism]]、[[Postsecularism]]、[[Principled_Distance]]、[[Public_Religion]]、[[Religion_Making]]、[[Secularity]]、[[Secularization]]、[[Separation_of_Church_and_State]]、[[State_Neutrality]]、[[The_Secular]]、[[不信仰]]、[[世俗主義]]、[[世俗分類]]、[[世俗化]]、[[世俗性]]、[[人權]]、[[公共宗教]]、[[公共神聖性]]、[[公共領域]]、[[制度分化]]、[[印度世俗主義]]、[[原則性距離]]、[[反支配]]、[[國家中立]]、[[國家宗教管理]]、[[國家強制]]、[[土耳其世俗主義]]、[[地方歷史脈絡]]、[[多重世俗性]]、[[宗教分類]]、[[宗教去私人化]]、[[宗教寬容]]、[[宗教少數者權利]]、[[宗教建構]]、[[宗教自由]]、[[強勢世俗主義]]、[[政教分離]]、[[民族主義]]、[[法國式世俗主義]]、[[深層多元主義]]、[[現代國家]]、[[美國世俗主義]]、[[被動世俗主義]]
+- [[laicidad]]
+- [[laïcité]]
+- [[世俗主義]]
+- [[世俗化]]
+- [[世俗性]]
+- [[世俗治理]]
+- [[交織性]]
+- [[公共宗教]]
+- [[公共理性]]
+- [[原則性距離]]
+- [[去世俗化]]
+- [[去私人化]]
+- [[國家中立]]
+- [[國家宗教]]
+- [[國家無神論]]
+- [[多元世俗主義]]
+- [[宗教多元]]
+- [[宗教自由或信仰自由]]
+- [[後世俗]]
+- [[政教分離]]
+- [[文明宗教]]
+- [[殖民世俗主義]]
+- [[良心自由]]
+- [[非宗教]]
 
 ### 概念地圖
+- [[世俗主義批判與生活經驗概念地圖]]
+- [[世俗主義核心概念地圖]]
+- [[世俗化宗教公共性與後世俗理論地圖]]
+- [[全球世俗主義制度模型比較地圖]]
+- [[宗教自由與平等公民地位概念地圖]]
 
-[[Buddhism_Meditation_and_Secular_Translation]]、[[Comparative_Models_of_State_Religion_Relations]]、[[Concept_Map_of_Secularism]]、[[Global_Regional_Comparisons]]、[[Normative_Debates_and_Critical_Perspectives]]
+## 核心參考書目與起點
+
+- [[世俗主義是一組安排國家與宗教關係的政治原則]]：跨領域總覽與多元世俗主義。
+- [[世俗不是宗教退場後的中性空間而有其歷史系譜]]：Talal Asad 的系譜學批判。
+- [[世俗化理論應拆分制度分化信仰衰退與宗教私人化]]：José Casanova、Gorski 與 Altınordu。
+- [[世俗時代改變的是信仰條件而非單純信仰人數]]：Charles Taylor。
+- [[最小世俗主義試圖建立可跨文化辯護的憲政底線]]：Cécile Laborde。
+- [[印度以原則性距離回應宗教多元與制度化支配]]：Rajeev Bhargava 與印度憲政研究。
+- [[世俗治理可能在承諾平等時重製宗教少數的不平等]]：Saba Mahmood。
+- [[國際人權法保障有神論無神論與不信仰的平等自由]]：聯合國人權文件。
+
+## 本書的暫定結論
+
+世俗主義最有說服力的版本，不是要求宗教消失，也不是以無神論取代宗教，而是限制國家與任何群體壟斷良心、身份和公共資源的權力。不同社會可以採用不同制度，但都應接受平等自由、非支配、透明問責與生活經驗的檢驗。世俗主義的成敗，最後要看一個人能否信仰、改變信仰、不信仰或保持沉默，而不因此失去參與共同生活的資格。
+
+
+## 補充文件
+
+- [[編輯方法與來源限制]]：說明來源類型、研究限制與使用方式。
