@@ -1,5 +1,5 @@
 ---
-title: 愛洋洋聯盟百科 Living with equanimity | Flyism.org
+title: 愛洋洋聯盟百科 Living with equanimity
 ---
 # 愛洋洋：平等看待所感知到的世界
 
