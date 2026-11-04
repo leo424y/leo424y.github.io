@@ -17,7 +17,7 @@
     
 - 赤腳生活：透過赤腳行走與每日步行，重新感受身體、環境和當下。[[Barefoot|赤腳生活]]
     
-- 身體覺察：觀察內在感受、感官敏感度、能量與身體調節之間的關係。[[Interoception|內感受]]、[[Hyperesthesia|感覺過敏]]、[[Energy_homeostasis|能量恆定]]、[[Bioenergetics|生物能量學]]
+- 身體覺察：觀察內在感受、感官敏感度、能量與身體調節之間的關係。[[Interoception/Interoception|內感受]]、[[Hyperesthesia|感覺過敏]]、[[Energy_homeostasis|能量恆定]]、[[Bioenergetics|生物能量學]]
     
 - 自我發展：不是追求更高效的自我管理，而是探索如何更自在、清醒地生活。[[Self-enhancement|自我提升]]
     
@@ -30,7 +30,7 @@
 
 - 日常禪修：保持早晚靜坐，將覺察延伸到行走、飲食、工作與人際互動。
     
-- 內觀服務：參與十日課程及長課程服務，理解服務工作、團體生活和修行之間的關係。[[Dhamma_Service|內觀服務]]
+- 內觀服務：參與十日課程及長課程服務，理解服務工作、團體生活和修行之間的關係。[[Dhamma_service/Dhamma_service|內觀服務]]
     
 - 內觀教育：研究如何以容易理解、非宗教化的語言，向不同背景的人介紹呼吸覺察、身體感受和平等心。[[Dhamma.org|葛印卡內觀]]、[[Vipassana_Movement|內觀運動]]
     
@@ -38,7 +38,7 @@
     
 - 跨傳統比較：理解佛教以外的印度思想、虔信傳統與實踐社群。[[Bhagavad_Gita|薄伽梵歌]]、[[Bhakti_yoga|奉愛瑜伽]]、[[Santi_Asoke|佛教法身會]]
     
-- 世俗化探索：研究如何在尊重不同信仰與無信仰者的前提下，分享修行經驗及生命教育。[[Secularism|世俗主義]]、[[Secular_humanism|世俗人文主義]]、[[Naturalism|自然主義]]、[[Disenchantment|祛魅]]
+- 世俗化探索：研究如何在尊重不同信仰與無信仰者的前提下，分享修行經驗及生命教育。[[Secularism/Secularism|世俗主義]]、[[Secular_humanism|世俗人文主義]]、[[Naturalism|自然主義]]、[[Disenchantment|祛魅]]
     
 
 長期方向是深化自身修行與服務經驗，朝向內觀助理老師的培養目標前進。
@@ -98,7 +98,7 @@
 - 公共討論：探索如何讓不同立場的人可以共同學習，而不是只追求意見一致。
     
 
-相關議題：[[Decentralization|去中心化]]、[[Rasch_model|拉希模型]]、[[Universal_basic_income|全民基本收入]]、[[AI_alignment|AI 對齊]]。
+相關議題：[[Decentralization|去中心化]]、[[Rasch_model|拉希模型]]、[[Universal_basic_income|全民基本收入]]、[[AI_alignment/AI_alignment|AI 對齊]]。
 
 ## 六、即興藝術與身體探索
 

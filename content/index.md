@@ -17,7 +17,7 @@ Be Happy!
 
 1. 簡單生活：實踐少物、低消費、赤腳行走、閱讀與慢生活。[[Simple_living|簡單生活]]、[[Barefoot|赤腳生活]]
 
-2. 內觀修行：持續禪修、參與課程服務，探索生命教育與平等心。[[Dhamma.org|葛印卡內觀]]、[[Dhamma_Service|內觀服務]]、[[Vipassana_Movement|內觀運動]]
+2. 內觀修行：持續禪修、參與課程服務，探索生命教育與平等心。[[Dhamma.org|葛印卡內觀]]、[[Dhamma_service/Dhamma_service|內觀服務]]、[[Vipassana_Movement|內觀運動]]
 
 3. 食物共享：透過續食餐桌、共食、惜食與免費資源共享，促進社區互助。[[Food_loss_and_waste|食物浪費]]、[[Freecycle|免費循環共享]]
 
@@ -34,7 +34,7 @@ Be Happy!
 詳見 [[Flyism|愛洋洋]]
 ### 近期活動
 
-- 2027(暫定) 訪問泰國，含功德主義(Bunniyom/Meritism)社群 [[Santi_Asoke]] 、 [[Dhamma.org|內觀社群]]，進行 [[Dhamma_Service|法工服務]]
+- 2027(暫定) 訪問泰國，含功德主義(Bunniyom/Meritism)社群 [[Santi_Asoke]] 、 [[Dhamma.org|內觀社群]]，進行 [[Dhamma_service/Dhamma_service|法工服務]]
 
 - 2028(暫定) 訪問印度，含 [[Dhamma.org|內觀社群]] 
 
