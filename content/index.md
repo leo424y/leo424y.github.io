@@ -15,7 +15,7 @@ Be Happy!
 
 > 以簡單生活為基礎，以內觀為核心，以知識為媒介，以互助為方法，以共同照顧為方向。
 
-1. 簡單生活：實踐少物、低消費、赤腳行走、閱讀與慢生活。[[Simple_living|簡單生活]]、[[Barefoot|赤腳生活]]
+1. 簡單生活：實踐少物、低消費、赤腳行走、閱讀與慢生活。[[Simple_living/Simple_living|簡單生活]]、[[Barefoot|赤腳生活]]
 
 2. 內觀修行：持續禪修、參與課程服務，探索生命教育與平等心。[[Dhamma.org|葛印卡內觀]]、[[Dhamma_service/Dhamma_service|內觀服務]]、[[Vipassana_Movement|內觀運動]]
 
