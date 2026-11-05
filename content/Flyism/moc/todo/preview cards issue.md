@@ -1,0 +1,1 @@
+Quartz 5 社群預覽圖（Social Media Preview Cards / OG Image）之所以會出現中文亂碼或方塊（豆腐塊），是由於 Quartz 內建的圖片渲染引擎（Satori）預設只載入了英文字型（如 Inter、Newsreader），不支援中文字元所致**。**
