@@ -1,3 +1,5 @@
+[[討論第四章]]
+https://notebooklm.link.google/9mCDWbevbFpI
 # 第四章：行業工具：科技與超自然證據的社會建構 (Tools of the Trade: Technology and the Construction of Paranormal Evidence)
 
 ### 1. 導論與理論框架：科技作為超自然探究的合法性橋樑 (Introduction & Theoretical Framework: Technology as a Legitimacy Bridge)
