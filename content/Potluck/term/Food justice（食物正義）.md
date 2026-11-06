@@ -1,0 +1,7 @@
+關注食物系統中的權力、種族、階級、性別、土地、勞動與環境不平等，主張人人有權取得健康、文化上合宜且可負擔的食物，也能參與決定食物系統。
+
+維基百科入口：[中文搜尋](https://zh.wikipedia.org/wiki/Special:Search?search=Food%20justice)) · [English](https://en.wikipedia.org/wiki/Food_justice) · [es 語搜尋](https://es.wikipedia.org/wiki/Special:Search?search=justicia%20alimentaria)
+
+延伸閱讀：[原始研究／參考來源](https://en.wikipedia.org/wiki/Food_justice)
+
+概念關聯：[[Potluck]]、[[共食與社會連結概念地圖]]、[[食物共享與食物正義概念地圖]]
