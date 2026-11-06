@@ -1,0 +1,9 @@
+Markdown files: 85
+data: 22
+note: 27
+idea: 9
+term: 20
+moc: 5
+Missing wikilinks: 0
+Card shape issues: 0
+Term reciprocal-link issues: 0
