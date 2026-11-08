@@ -1,6 +1,7 @@
 ---
 title: 愛洋洋聯盟百科 Living with equanimity
 ---
+>到愛洋洋百科投票所推薦、投下你想看的條目吧！ [https://pol.is/6kkpc9h8fx](https://pol.is/6kkpc9h8fx)
 # 愛洋洋：平等看待所感知到的世界
 
 愛洋洋聯盟由一群學習平靜地生活的人組成
