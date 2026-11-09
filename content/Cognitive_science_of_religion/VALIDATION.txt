@@ -1,0 +1,8 @@
+Files: 91
+Data: 17
+Note: 14
+Idea: 8
+Term: 46
+MOC: 4
+Missing internal links: 0
+Missing sections: 0
