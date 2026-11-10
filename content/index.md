@@ -1,5 +1,5 @@
 ---
-title: 愛洋洋聯盟百科 Living with equanimity
+title: 愛洋洋卡片盒 Living with equanimity
 ---
 >到 [愛洋洋百科投票所](https://pol.is/6kkpc9h8fx)推薦、投下你想看的條目吧~
 >到 [愛洋洋日報](https://flyism.org/flyism/on) 瞧瞧更新條目摘要吧~
@@ -8,9 +8,9 @@ title: 愛洋洋聯盟百科 Living with equanimity
 
 愛洋洋聯盟由一群學習平靜地生活的人組成
 
-百科收錄供成員關心議題的知識卡片
+愛洋洋卡片盒收錄供成員關心議題的知識卡片
 
-歡迎來信共同發展愛洋洋聯盟百科吧
+歡迎共同發展愛洋洋聯盟卡片盒百科吧
 
 Be Happy!
 
