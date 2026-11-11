@@ -1,0 +1,5 @@
+wikilinks是本書庫用來連接反烏托邦研究的一個延伸概念。閱讀時請回到具體文獻確認其定義、使用範圍與歷史脈絡，避免將概念視為固定不變的標籤。
+
+## 維基百科
+* 中文：[搜尋「wikilinks」](https://zh.wikipedia.org/w/index.php?search=wikilinks)
+* English: [Search Wikipedia for wikilinks](https://en.wikipedia.org/w/index.php?search=wikilinks)
