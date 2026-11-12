@@ -1,0 +1,1 @@
+All internal wikilinks resolve to Markdown files in this vault.

@@ -1,0 +1,7 @@
+Markdown files: 89
+data: 20
+note: 16
+idea: 14
+term: 32
+moc: 5
+Broken wikilinks: 0
