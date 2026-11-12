@@ -2,7 +2,7 @@
 title: 愛洋洋卡片盒 Living with equanimity
 ---
 >到 [愛洋洋百科投票所](https://pol.is/6kkpc9h8fx)推薦、投下你想看的條目吧~
->到 [愛洋洋日報](https://flyism.org/flyism/on) 瞧瞧更新條目摘要吧~
+>到 [愛洋洋日報](https://leo424y.github.io/flyism/on) 瞧瞧更新條目摘要吧~
 >深入了解 [[Flyism|愛洋洋]]
 # 愛洋洋：平等看待所感知到的世界
 
