@@ -1,0 +1,4 @@
+files=71
+counts={'data': 18, 'note': 15, 'idea': 10, 'term': 23, 'moc': 3}
+missing_wikilinks=0
+root_missing_linked_notes=0
