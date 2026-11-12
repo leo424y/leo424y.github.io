@@ -6,9 +6,9 @@ configuration:
   enablePopovers: true
   analytics:
     provider: google
-    tagId: G-182B21W1PC
+    tagId: G-0YN6JLJ4V9
   locale: "zh-TW"
-  baseUrl: flyism.org
+  baseUrl: leo424y.github.io
   ignorePatterns:
     - private
     - templates

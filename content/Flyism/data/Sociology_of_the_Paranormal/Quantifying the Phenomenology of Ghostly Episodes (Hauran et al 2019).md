@@ -1,4 +1,11 @@
 https://notebook.google.com/notebook/ace5921f-689f-4f71-ab77-9fa9b86a6900?authuser=7
+[[Rasch_model]]
+[[法庭語言學]]
+[[Forensic_linguistics]]
+[[符號的意義取決於關係與使用情境]]
+[[Symbolic_interactionism]]
+
+[[懷疑論]]
 
 [[為什麼研究人員認為幽靈事件需要有標準的測量與定義？]]
 [[主觀心理體驗與客觀物理現象如何區分？]]
