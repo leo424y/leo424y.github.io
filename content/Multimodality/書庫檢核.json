@@ -1,0 +1,14 @@
+{
+  "topic": "Multimodality",
+  "language": "Traditional Chinese",
+  "folders": {
+    "data": 36,
+    "note": 27,
+    "idea": 12,
+    "term": 33,
+    "moc": 6
+  },
+  "root_guide": "Multimodality.md",
+  "wikilink_audit_missing": [],
+  "markdown_files": 115
+}
