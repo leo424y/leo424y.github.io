@@ -1,0 +1,8 @@
+data: 15
+note: 14
+idea: 10
+term: 49
+moc: 5
+total_markdown: 95
+broken_wikilinks: 0
+All internal wikilinks resolve.

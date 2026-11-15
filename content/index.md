@@ -1,30 +1,30 @@
 ---
-title: 愛洋洋卡片盒 Living with equanimity
+title: 愛洋洋卡片盒 Living with Equanimity
 ---
 >[[flyism/week/week|愛洋洋週報]]連載中
 >歡迎來信推薦主題 leo424y@gmail.com
-# 愛洋洋：平等看待所感知到的世界
+# 愛洋洋：清醒平靜看待所感知到的世界
 
 愛洋洋卡片盒收錄日常新知
-一起學習平靜生活吧
+一起清醒平靜地「瀞」生活吧
 Be Happy!
 
 ## 愛洋洋在做的事
 
 > 以簡單生活為基礎，以內觀為核心，以知識為媒介，以互助為方法，以共同照顧為方向。
 
-1. [[Simple_living|簡單生活]]：[[Gift_economy|少物]]、[[Decommodification/Decommodification|低消費]]、[[Barefoot|赤腳]]、[[Book_discussion_club|閱讀]]、[[Third_place|聚會]]與[[Cittaslow|慢生活]]。
+1. [[Simple_living|簡單生活]]：[[Contentment|少物]]、[[Decommodification/Decommodification|低消費]]、[[Barefoot|赤腳]]、[[Book_discussion_club|閱讀]]、[[Third_place|聚會]]與[[Cittaslow|慢生活]]。
    >[愛洋洋群](http://tiny.cc/flyism_group) 
-2. [[Dhamma.org|內觀]]修行：持續禪修、參與課程[[Dhamma_service|服務]]，探索生命教育與平等心。[[Vipassana_Movement|內觀運動]]
+2. [[Dhamma.org|內觀]]修行：持續日常禪修、參與課程[[Dhamma_service|服務]]，探索生命教育與平等心。[[Vipassana_Movement|內觀運動]]
    > [台灣內觀中心](https://tw.dhamma.org/zh-tw/)
 3. 食物共享：透過[[Potluck|共食餐桌]]、[[Food_loss_and_waste|惜食]]與[[Freeganism|免費資源共享]]，促進社區互助。
    >[良實交換所](https://www.facebook.com/HonestFoodShop) [華美剩食廚房](https://www.facebook.com/huameisurplus)
 4. 知識分享：製作[[Zettelkasten|卡片盒]]，整理[[Multilingualism|全球跨領域知識]]。[[flyism/week/week|愛洋洋週報]]
-   >[惠惠讀書會群](https://line.me/ti/g/Q_QpNBFDFY)
+   >[有機書店](https://portaly.cc/69bookstore.2025) [潭子愛洋洋書櫃有機書店](https://www.facebook.com/profile.php?id=61588885066288) [惠惠讀書會群](https://line.me/ti/g/Q_QpNBFDFY) 
 5. 公共參與：透過主題探索與[[Knowledge_commons|知識普及]]，促進[[Civil_society|公共討論]]。[[Cosmopolitanism|世界主義]]、[[Decentralization|去中心化]]
    >[愛洋洋群](http://tiny.cc/flyism_group) 
 6. 藝術與關係：探索[[Contact_improvisation|接觸即興]]、[[Experimental_theatre|實驗劇場]]、[[Nonviolent_Communication|非暴力溝通]]與共同生活。
-   >[台中接觸即興群](https://line.me/R/ti/g/FwgnL_FW40 ) [三義讀書會群](https://line.me/ti/g/ak3catMduV) [仲花枝玩劇團](https://www.facebook.com/WhatsPlayTheatre/) [20%實驗劇坊](https://www.facebook.com/20percentofdrama)
+   >[台中接觸即興群](https://line.me/R/ti/g/FwgnL_FW40 ) [三義讀書會群](https://line.me/ti/g/ak3catMduV) [仲花枝玩劇團](https://www.facebook.com/WhatsPlayTheatre/) [20%實驗劇坊](https://www.facebook.com/20percentofdrama) [醬即興](https://www.facebook.com/groups/flyism) [台北接觸即興](https://www.facebook.com/groups/1048058655864394)
 7. 社會實驗：探索[[Autonomy|自主與互賴]]、[[Gift_economy|資源共享]]、[[Universal_basic_income|全民基本收入]]及[[Secular_humanism|世俗人文主義]]。 
    >[再見好物中心群](https://line.me/ti/g/4WfByX_wJe) 
 

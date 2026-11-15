@@ -1,7 +1,8 @@
 # 愛洋洋週報
 >這裡每週更新關鍵字報告
->到 [愛洋洋日報](https://leo424y.github.io/flyism/on) 瞧瞧詳細條目摘要吧~
+>[推薦、投下你想看的條目吧！](https://pol.is/6kkpc9h8fx)
 >歡迎來信推薦主題 leo424y@gmail.com
+>到 [愛洋洋日報](https://leo424y.github.io/flyism/on) 瞧瞧詳細條目摘要吧
 
 [[2063]] 在互賴中共同創造可生活的世界。
 [[2062]] 愛洋洋，一個持續實驗的生活與學習池。
