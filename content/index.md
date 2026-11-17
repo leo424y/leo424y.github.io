@@ -1,7 +1,7 @@
 ---
 title: 愛洋洋卡片盒 Living with Equanimity
 ---
->[[flyism/on/on|主題導讀]]、[[flyism/week/week|週報]] 連載中
+>[[flyism/in/in|主題導讀]]、[[flyism/week/week|週報]] 連載中
 >歡迎來信推薦主題 leo424y@gmail.com
 # 愛洋洋：清醒平靜看待所感知到的世界
 
