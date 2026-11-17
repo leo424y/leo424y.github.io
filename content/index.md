@@ -20,26 +20,32 @@ Be Happy!
 3. 食物共享：透過[[Potluck|共食餐桌]]、[[Food_loss_and_waste|惜食]]與[[Freeganism|免費資源共享]]，促進社區互助。
    >[良實交換所](https://www.facebook.com/HonestFoodShop) [華美剩食廚房](https://www.facebook.com/huameisurplus)
 4. 知識分享：製作[[Zettelkasten|卡片盒]]，整理[[Multilingualism|全球跨領域知識]]。[[flyism/week/week|愛洋洋週報]]
-   >[有機書店](https://portaly.cc/69bookstore.2025) [潭子愛洋洋書櫃有機書店](https://www.facebook.com/profile.php?id=61588885066288) [惠惠讀書會群](https://line.me/ti/g/Q_QpNBFDFY) 
+   >[我的書櫃爆炸了心得群](https://forms.gle/WVMqnooPkmvXVSWA9) [潭子讀書會群](https://line.me/ti/g/5EzSUhw8_F) [有機書店](https://portaly.cc/69bookstore.2025) [潭子愛洋洋書櫃有機書店](https://www.facebook.com/profile.php?id=61588885066288) [惠惠讀書會群](https://line.me/ti/g/Q_QpNBFDFY) 
 5. 公共參與：透過主題探索與[[Knowledge_commons|知識普及]]，促進[[Civil_society|公共討論]]。[[Cosmopolitanism|世界主義]]、[[Decentralization|去中心化]]
-   >[愛洋洋群](http://tiny.cc/flyism_group) 
+   >[愛洋洋群](http://tiny.cc/flyism_group) [g0v Slack群](https://join.g0v.tw)
 6. 藝術與關係：探索[[Contact_improvisation|接觸即興]]、[[Experimental_theatre|實驗劇場]]、[[Nonviolent_Communication|非暴力溝通]]與共同生活。
    >[台中接觸即興群](https://line.me/R/ti/g/FwgnL_FW40 ) [三義讀書會群](https://line.me/ti/g/ak3catMduV) [仲花枝玩劇團](https://www.facebook.com/WhatsPlayTheatre/) [20%實驗劇坊](https://www.facebook.com/20percentofdrama) [醬即興](https://www.facebook.com/groups/flyism) [台北接觸即興](https://www.facebook.com/groups/1048058655864394)
 7. 社會實驗：探索[[Autonomy|自主與互賴]]、[[Gift_economy|資源共享]]、[[Universal_basic_income|全民基本收入]]及[[Secular_humanism|世俗人文主義]]。 
-   >[再見好物中心群](https://line.me/ti/g/4WfByX_wJe) 
+   >[再見好物中心群](https://line.me/ti/g/4WfByX_wJe) [山山來吃群](https://line.me/ti/g/dbA8dSJWFK) [愛洋洋廚房群](https://line.me/ti/g/Jsm9NUtERV)
 
 核心方向：減少工作與消費，增加覺察、學習、自由、連結與互助。
 >深入了解 [[Flyism|愛洋洋]]
 
-## 愛洋洋活動
-
-- 2027(暫定) 訪問泰國功德主義(Bunniyom/Meritism)社群 [[Santi_Asoke]]、[[Dhamma.org|內觀社群]]，進行[[Dhamma_service/Dhamma_service|法工服務]]
-- 2028(暫定) 訪問印度，含 [[Dhamma.org|內觀社群]] 
 ### 愛洋洋故事
 
-這些年，我們也訪問了許多朋友，記錄不同生命經驗與生活故事。每一段分享，都帶來不同的觀點與啟發。目前累積了 **六百多人次**的訪談與故事紀錄，歡迎收看：
+這些年，我們也訪問了許多朋友，記錄不同生命經驗與生活故事。每一段分享，都帶來不同的觀點與啟發。目前累積了**六百多人次**的訪談與故事紀錄，歡迎收看：
 🎧 [愛洋洋人物訪談播放清單](https://www.youtube.com/playlist?list=PLmqZeWegU9jXBs2PyiOEyLtDxL-WTOlME)
 
 ![](https://youtube.com)<iframe width="360" height="640" src="https://www.youtube.com/embed/videoseries?si=fXlQAPMlFYh5CTHH&amp;list=PLmqZeWegU9jXBs2PyiOEyLtDxL-WTOlME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 >喜歡愛洋洋提供的內容嗎？歡迎贊助支持，詳見[[Fundraising|愛洋洋募資計劃]]
+
+## 愛洋洋活動
+
+- 2027/2/24-3/27 [[Dhamma.org|內觀]]
+- 2027(暫定) 訪問泰國功德主義(Bunniyom/Meritism)社群 [[Santi_Asoke]]、[[Dhamma.org|內觀社群]]，進行[[Dhamma_service/Dhamma_service|法工服務]]
+- 2028(暫定) 訪問印度，含 [[Dhamma.org|內觀社群]] 
+- 
+- 2026/11/12- 每週四 東海大學許甘霖老師 [[Flyism/in/Sociology_of_the_Paranormal|靈異社會學]] 
+- 2026/11/18 [[Sanyi|三義讀書會]] [[Flyism/in/Wood_carving|木雕展]]
+- 2026/11/21 仲花枝玩劇團 [[Flyism/in/Playback_Theatre|一人一故事]] 演出 X [[Flyism/in/Nonviolent_Communication|非暴力溝通]] 工作坊

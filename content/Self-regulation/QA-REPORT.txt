@@ -1,0 +1,5 @@
+Files: 80
+Counts: {'data': 22, 'note': 21, 'idea': 8, 'term': 23, 'moc': 4}
+Missing wikilinks: 0
+Guide-unlinked cards: 0
+Section errors: 0
