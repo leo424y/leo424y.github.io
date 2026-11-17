@@ -15,7 +15,7 @@ Be Happy!
 
 1. [[Simple_living|簡單生活]]：[[Contentment|少物]]、[[Decommodification/Decommodification|低消費]]、[[Barefoot|赤腳]]、[[Book_discussion_club|閱讀]]、[[Third_place|聚會]]與[[Cittaslow|慢生活]]。
    >[愛洋洋群](http://tiny.cc/flyism_group) 
-2. [[Dhamma.org|內觀]]修行：持續日常禪修、參與課程[[Dhamma_service|服務]]，探索生命教育與平等心。[[Vipassana_Movement|內觀運動]]
+2. [[Dhamma.org|內觀]]修行：持續日常禪修、參與課程[[Dhamma_service|服務]]，探索生命教育與[[Flyism/in/Equanimity|平等心]]。[[Vipassana_Movement|內觀運動]]
    > [台灣內觀中心](https://tw.dhamma.org/zh-tw/)
 3. 食物共享：透過[[Potluck|共食餐桌]]、[[Food_loss_and_waste|惜食]]與[[Freeganism|免費資源共享]]，促進社區互助。
    >[良實交換所](https://www.facebook.com/HonestFoodShop) [華美剩食廚房](https://www.facebook.com/huameisurplus)
