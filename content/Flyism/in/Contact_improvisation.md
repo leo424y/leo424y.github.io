@@ -38,7 +38,7 @@ Kimmel、Hristova 與 Kussmaul 在 2018 年的研究，以微觀現象學訪談�
 
 在實際互動中，這代表：進入 jam 空間不等於同意被觸碰；同意可以用語言或非語言方式表達，也可以隨時改變；猶豫應被視為放慢和確認的訊號，而不是需要被說服的阻力。提出邀請的人也有責任留意對方的回應，不能把維護安全的全部責任都交給較脆弱、較資淺或較難拒絕的人。[6]
 
-這裡也能與[[Nonviolent_Communication|非暴力溝通]]連結：辨認自己的感受與需要、清楚提出請求，並把對方的拒絕視為有效資訊，而不是人際關係的否定。真正的自由不是每個人都必須參與，而是每個人都能選擇如何參與、何時改變，以及何時離開。
+這裡也能與[[Flyism/in/Nonviolent_Communication|非暴力溝通]]連結：辨認自己的感受與需要、清楚提出請求，並把對方的拒絕視為有效資訊，而不是人際關係的否定。真正的自由不是每個人都必須參與，而是每個人都能選擇如何參與、何時改變，以及何時離開。
 
 ## 五、差異不是需要被修正的偏差：讓更多身體參與共同創造
 
@@ -66,7 +66,7 @@ Kimmel、Hristova 與 Kussmaul 在 2018 年的研究，以微觀現象學訪談�
 
 - 與身體、感知和關係有關：[[Embodied_cognition|具身認知]]、[[phenomenology|現象學]]、[[Intersubjectivity|主體間性]]、[[Phenomenological_sociology|現象學社會學]]、[[Interoception|內感受]]、[[Perception|知覺]]、[[Affordance|可供性]]。
 - 與創造和系統有關：[[Improvisation|即興]]、[[Emergence|湧現]]、[[Self-organization|自組織]]、[[Systems_theory|系統理論]]、[[Group_dynamics|團體動力]]、[[Affect_theory|情感理論]]。
-- 與倫理和共融有關：[[Interdependence|互賴]]、[[Autonomy|自主]]、[[Informed_consent|知情同意]]、[[Bodily_integrity|身體完整性]]、[[Nonviolent_Communication|非暴力溝通]]、[[Universal_design|通用設計]]、[[Neurodiversity|神經多樣性]]、[[Ableism|障礙歧視]]、[[Social_model_of_disability|障礙的社會模式]]。
+- 與倫理和共融有關：[[Interdependence|互賴]]、[[Autonomy|自主]]、[[Informed_consent|知情同意]]、[[Bodily_integrity|身體完整性]]、[[Flyism/in/Nonviolent_Communication|非暴力溝通]]、[[Universal_design|通用設計]]、[[Neurodiversity|神經多樣性]]、[[Ableism|障礙歧視]]、[[Social_model_of_disability|障礙的社會模式]]。
 - 可比較的實踐：[[Acroyoga|雙人瑜伽]]、[[Slacklining|走扁帶]]、[[Dance_therapy|舞蹈治療]]、[[Performance_art|行為藝術]]、[[Sensory_Anthropology|感官人類學]]。
 
 ### 參考來源

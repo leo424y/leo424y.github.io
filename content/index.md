@@ -23,7 +23,7 @@ Be Happy!
    >[我的書櫃爆炸了心得群](https://forms.gle/WVMqnooPkmvXVSWA9) [潭子讀書會群](https://line.me/ti/g/5EzSUhw8_F) [有機書店](https://portaly.cc/69bookstore.2025) [潭子愛洋洋書櫃有機書店](https://www.facebook.com/profile.php?id=61588885066288) [惠惠讀書會群](https://line.me/ti/g/Q_QpNBFDFY) 
 5. 公共參與：透過主題探索與[[Knowledge_commons|知識普及]]，促進[[Civil_society|公共討論]]。[[Cosmopolitanism|世界主義]]、[[Decentralization|去中心化]]
    >[愛洋洋群](http://tiny.cc/flyism_group) [g0v Slack群](https://join.g0v.tw)
-6. 藝術與關係：探索[[Contact_improvisation|接觸即興]]、[[Experimental_theatre|實驗劇場]]、[[Nonviolent_Communication|非暴力溝通]]與共同生活。
+6. 藝術與關係：探索[[Flyism/in/Contact_improvisation|接觸即興]]、[[Experimental_theatre|實驗劇場]]、[[Flyism/in/Nonviolent_Communication|非暴力溝通]]與共同生活。
    >[台中接觸即興群](https://line.me/R/ti/g/FwgnL_FW40 ) [三義讀書會群](https://line.me/ti/g/ak3catMduV) [仲花枝玩劇團](https://www.facebook.com/WhatsPlayTheatre/) [20%實驗劇坊](https://www.facebook.com/20percentofdrama) [醬即興](https://www.facebook.com/groups/flyism) [台北接觸即興](https://www.facebook.com/groups/1048058655864394)
 7. 社會實驗：探索[[Autonomy|自主與互賴]]、[[Gift_economy|資源共享]]、[[Universal_basic_income|全民基本收入]]及[[Secular_humanism|世俗人文主義]]。 
    >[再見好物中心群](https://line.me/ti/g/4WfByX_wJe) [山山來吃群](https://line.me/ti/g/dbA8dSJWFK) [愛洋洋廚房群](https://line.me/ti/g/Jsm9NUtERV)

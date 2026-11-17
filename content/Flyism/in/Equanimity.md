@@ -2,7 +2,7 @@
 
 ## 導讀
 
-平等心（*upekkhā*）常被誤解為不在乎、不受影響，或把情緒壓到看不見。更精確地說，它是一種**能感受、能理解，卻不必立刻被感受牽著走的心智平衡**。愉快不必抓取，痛苦不必排斥；受到讚美不急著膨脹，遭受批評也不急著防衛。平等心不是退出生命，而是在生命起伏之中保留選擇如何回應的空間。
+[[Equanimity/Equanimity|平等心]]（*upekkhā*）常被誤解為不在乎、不受影響，或把情緒壓到看不見。更精確地說，它是一種**能感受、能理解，卻不必立刻被感受牽著走的心智平衡**。愉快不必抓取，痛苦不必排斥；受到讚美不急著膨脹，遭受批評也不急著防衛。平等心不是退出生命，而是在生命起伏之中保留選擇如何回應的空間。
 
 從這份卡片盒清單出發，可以把平等心理解為一種連結身體調節、認知覺察、人際倫理與社會實踐的能力：**先如實看見正在發生什麼，再辨認自己的慣性反應，最後選擇不增加苦、又能照顧彼此的行動。**
 
@@ -24,7 +24,7 @@
 
 初期佛教文獻的研究整理也提醒，平等心並非任何時候都代表保持沉默。當有人受到欺凌或傷害時，出於慈悲而適時勸誡、制止或保護，可能比袖手旁觀更恰當。因此，平等心不是「不分是非」，而是避免因愛憎、恐懼或自我形象而失去判斷；它讓行動更有分寸，而不是讓行動消失。
 
-這個區分也能延伸到日常關係。透過[[Nonviolent_Communication|非暴力溝通]]與[[Mentalization|心智化]]，我們可以同時承認自己的感受與需要，也嘗試理解對方的處境；透過[[Restorative_justice|修復式正義]]，把焦點從報復轉向傷害、責任與修復。平等心不是要求受傷的人忍耐，也不是替不公義找藉口。
+這個區分也能延伸到日常關係。透過[[Flyism/in/Nonviolent_Communication|非暴力溝通]]與[[Mentalization|心智化]]，我們可以同時承認自己的感受與需要，也嘗試理解對方的處境；透過[[Restorative_justice|修復式正義]]，把焦點從報復轉向傷害、責任與修復。平等心不是要求受傷的人忍耐，也不是替不公義找藉口。
 
 ## 四、從個人修習走向共同生活
 
@@ -56,4 +56,4 @@
 
 ## 相關卡片
 
-[[Equanimity|平等心]] · [[Vipassana_Movement|內觀運動]] · [[Three_marks_of_existence|三法印]] · [[Four_Noble_Truths|四聖諦]] · [[Noble_Eightfold_Path|八正道]] · [[Brahmavihara|四梵住]] · [[Self-regulation|自我調節]] · [[Interoception|內感受]] · [[Metacognition|後設認知]] · [[Nonviolent_Communication|非暴力溝通]] · [[Mutual_aid|互助]]
+[[Flyism/in/Equanimity|平等心]] · [[Vipassana_Movement|內觀運動]] · [[Three_marks_of_existence|三法印]] · [[Four_Noble_Truths|四聖諦]] · [[Noble_Eightfold_Path|八正道]] · [[Brahmavihara|四梵住]] · [[Self-regulation|自我調節]] · [[Interoception|內感受]] · [[Metacognition|後設認知]] · [[Flyism/in/Nonviolent_Communication|非暴力溝通]] · [[Mutual_aid|互助]]
