@@ -49,3 +49,6 @@ Be Happy!
 - 2026/11/12- 每週四 東海大學許甘霖老師 [[Flyism/in/Sociology_of_the_Paranormal|靈異社會學]] 
 - 2026/11/18 [[Sanyi|三義讀書會]] [[Flyism/in/Wood_carving|木雕展]]
 - 2026/11/21 仲花枝玩劇團 [[Flyism/in/Playback_Theatre|一人一故事]] 演出 X [[Flyism/in/Nonviolent_Communication|非暴力溝通]] 工作坊
+
+
+

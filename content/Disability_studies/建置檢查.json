@@ -1,0 +1,34 @@
+{
+  "folders": {
+    "data": 20,
+    "note": 23,
+    "idea": 9,
+    "term": 36,
+    "moc": 6
+  },
+  "total_markdown": 96,
+  "missing_wikilinks": [],
+  "one_way_term_links": [],
+  "root_guide_coverage": {
+    "data": {
+      "linked": 20,
+      "total": 20
+    },
+    "note": {
+      "linked": 23,
+      "total": 23
+    },
+    "idea": {
+      "linked": 9,
+      "total": 9
+    },
+    "term": {
+      "linked": 36,
+      "total": 36
+    },
+    "moc": {
+      "linked": 6,
+      "total": 6
+    }
+  }
+}
