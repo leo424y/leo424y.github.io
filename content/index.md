@@ -19,7 +19,7 @@ Be Happy!
    > [台灣內觀中心](https://tw.dhamma.org/zh-tw/)
 3. 食物共享：透過[[Potluck|共食餐桌]]、[[Food_loss_and_waste|惜食]]與[[Freeganism|免費資源共享]]，促進社區互助。
    >[良實交換所](https://www.facebook.com/HonestFoodShop) [華美剩食廚房](https://www.facebook.com/huameisurplus)
-4. 知識分享：製作[[Zettelkasten|卡片盒]]，整理[[Multilingualism|全球跨領域知識]]。[[flyism/week/week|愛洋洋週報]]
+4. 知識分享：製作[[Zettelkasten|卡片盒]]整理[[Multilingualism|全球跨領域知識]]。[[Flyism/in/Organic_bookstore_|有機書店]] [[flyism/week/week|愛洋洋週報]]
    >[我的書櫃爆炸了心得群](https://forms.gle/WVMqnooPkmvXVSWA9) [潭子讀書會群](https://line.me/ti/g/5EzSUhw8_F) [有機書店](https://portaly.cc/69bookstore.2025) [潭子愛洋洋書櫃有機書店](https://www.facebook.com/profile.php?id=61588885066288) [惠惠讀書會群](https://line.me/ti/g/Q_QpNBFDFY) 
 5. 公共參與：透過主題探索與[[Knowledge_commons|知識普及]]，促進[[Civil_society|公共討論]]。[[Cosmopolitanism|世界主義]]、[[Decentralization|去中心化]]
    >[愛洋洋群](http://tiny.cc/flyism_group) [g0v Slack群](https://join.g0v.tw)
