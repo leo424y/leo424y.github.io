@@ -1,7 +1,7 @@
-ICF 是世界衛生組織的《國際健康功能與身心障礙分類》，以身體功能、活動、參與和環境因素描述健康相關狀態；它是分類架構，不等同於社會模式或法律上的障礙定義。
+世界衛生組織制定的《國際健康功能與身心障礙分類》，以身體功能與構造、活動、參與及環境與個人因素描述健康與生活情境的互動。它是分類與描述架構，不等同於完整的障礙正義理論。
 
-概念連結：[[環境因素]]、[[社會模式]]、[[損傷]]、[[可及性]]。
+相關概念：[[CRPD]]、[[損傷]]、[[無障礙]]、[[社會模式]]、[[醫療模式]]
 
-## 維基百科
-* 中文：https://zh.wikipedia.org/wiki/國際健康功能與身心障礙分類
-* English: https://en.wikipedia.org/wiki/International_Classification_of_Functioning,_Disability_and_Health
+維基百科：[國際健康功能與身心障礙分類](https://zh.wikipedia.org/wiki/身心障礙) ｜ [International Classification of Functioning, Disability and Health](https://en.wikipedia.org/wiki/International_Classification_of_Functioning,_Disability_and_Health)
+
+[[Social_model_of_disability]]

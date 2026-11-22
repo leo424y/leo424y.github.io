@@ -1,7 +1,7 @@
-CRPD 是《身心障礙者權利公約》，以人權為基礎要求締約國保障障礙者平等享有自由與權利，涵蓋可及性、法律能力、獨立生活、教育、健康、工作與政治參與等領域。
+聯合國《身心障礙者權利公約》，以促進、保護和確保障礙者平等享有全部人權與基本自由為宗旨，並承認障礙概念會隨人與態度、環境障礙互動而演變。
 
-概念連結：[[人權模式]]、[[可及性]]、[[獨立生活]]、[[合理調整]]。
+相關概念：[[ICF]]、[[人權模式]]、[[合理調整]]、[[無障礙]]、[[社會模式]]
 
-## 維基百科
-* 中文：https://zh.wikipedia.org/wiki/身心障礙者權利公約
-* English: https://en.wikipedia.org/wiki/Convention_on_the_Rights_of_Persons_with_Disabilities
+維基百科：[身心障礙者權利公約](https://zh.wikipedia.org/wiki/残疾人权利公约) ｜ [Convention on the Rights of Persons with Disabilities](https://en.wikipedia.org/wiki/Convention_on_the_Rights_of_Persons_with_Disabilities)
+
+[[Social_model_of_disability]]

@@ -1,0 +1,17 @@
+{
+  "topic": "Citta",
+  "language": "繁體中文",
+  "folders": {
+    "data": 16,
+    "note": 15,
+    "idea": 6,
+    "term": 27,
+    "moc": 4
+  },
+  "root_files": [
+    "Citta.md"
+  ],
+  "total_markdown_files": 69,
+  "missing_wikilinks": [],
+  "section_errors": []
+}
