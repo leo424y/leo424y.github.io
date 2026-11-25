@@ -1,7 +1,12 @@
-# 使用說明
+# Pratītyasamutpāda 知識庫
 
-- 將整個 `Pratītyasamutpāda/` 資料夾放入 Obsidian vault 或 Logseq graph。
-- 根目錄 `Pratītyasamutpāda.md` 是全書導讀與索引。
-- `data/` 為文獻筆記；`note/` 為永久筆記；`idea/` 為靈感筆記；`term/` 為概念詞條；`moc/` 為概念地圖。
-- 檔名即標題；內文以內部 wikilinks 連結其他筆記。
-- Mermaid 圖表位於 `moc/` 筆記中；Obsidian 可直接預覽，Logseq 亦可使用 Mermaid 區塊。
+本資料夾可直接放入 Obsidian 或其他支援 Markdown／Wikilinks 的筆記系統。
+
+- `Pratītyasamutpāda.md`：全書導讀與閱讀路徑
+- `data/`：文獻筆記，含來源連結與研究脈絡
+- `note/`：原子化永久筆記
+- `idea/`：延伸思考與可實作行動
+- `term/`：概念定義、雙向概念連結與維基百科參考
+- `moc/`：概念地圖與 Mermaid 關係圖
+
+每則資料筆記均回鏈至根目錄導讀；導讀也整合連結到各類筆記。部分維基百科中文頁若無獨立條目，連結可能導向較廣泛的佛教概念頁，閱讀時請以經典與學術資料為主。
