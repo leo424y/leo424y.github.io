@@ -1,0 +1,16 @@
+{
+  "topic": "Ideology",
+  "counts": {
+    "data": 19,
+    "note": 15,
+    "idea": 9,
+    "term": 32,
+    "moc": 4,
+    "root": 1
+  },
+  "total_markdown_files": 80,
+  "missing_wikilinks": [],
+  "nonreciprocal_term_links": [],
+  "validation": "all internal wikilinks resolve; term-to-term links are reciprocal",
+  "sources_note": "Literature notes link to academic publishers, peer-reviewed journals, reference encyclopedias, and primary texts. Access may vary by institution."
+}

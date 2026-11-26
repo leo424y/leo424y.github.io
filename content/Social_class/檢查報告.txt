@@ -1,0 +1,4 @@
+Markdown files: 68
+Folders: data=17, note=15, idea=8, term=23, moc=4
+Missing wikilink targets: 0
+Concept cross-links made reciprocal: 122 directed links verified

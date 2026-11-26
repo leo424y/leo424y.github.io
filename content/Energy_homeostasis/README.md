@@ -1,22 +1,13 @@
 # Energy_homeostasis 書庫
 
-這是一份以繁體中文撰寫、可直接匯入 Obsidian 的 Markdown 卡片盒筆記書庫。
+主題：Energy homeostasis（能量恆定）
 
-## 資料夾
+資料夾：
+- `data/`：文獻、研究、報告、書籍與訪談筆記
+- `note/`：永久筆記與跨文獻綜合
+- `idea/`：延伸思考與可實踐行動
+- `term/`：概念定義與中英文維基百科入口
+- `moc/`：概念地圖與 Mermaid 關係圖
+- `Energy_homeostasis.md`：全書導讀與閱讀路徑
 
-- `data/`：文獻與來源摘要。
-- `note/`：從文獻提煉的永久筆記。
-- `idea/`：延伸問題、生活觀察與可能行動。
-- `term/`：原子化概念定義。
-- `moc/`：概念地圖與主題導航。
-- `Energy_homeostasis.md`：全書導讀、閱讀路徑與筆記索引。
-
-## 使用方式
-
-將 ZIP 解壓縮後，把 `Energy_homeostasis` 資料夾整個移入 Obsidian vault，再以 `Energy_homeostasis.md` 作為入口。筆記使用 雙向連結，在 Obsidian 中開啟即可建立反向連結與圖譜。
-
-## 版本與範圍
-
-整理日期：2026-11-02。研究涵蓋細胞能量感測、腦—身體訊號、脂肪儲存、體重調節模型、能量消耗測量、內感受、晝夜節律、食物安全及跨文化食物系統。研究筆記均附 DOI、PubMed、PMC 或官方來源連結；若研究摘要與後續證據有差異，應回到原文及更新版綜述核對。
-
-本書提供教育與研究用途，不構成個人醫療建議。
+建議以 Obsidian 或 Logseq 開啟根目錄內的 `Energy_homeostasis.md`，再沿著 wikilinks 閱讀。所有 Mermaid 圖均以 Markdown 程式碼區塊保存。
