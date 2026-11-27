@@ -1,0 +1,8 @@
+Markdown files: 95
+data: 16
+note: 27
+idea: 13
+term: 31
+moc: 7
+Dangling wikilinks: 0
+Root guide links all permanent notes: True
