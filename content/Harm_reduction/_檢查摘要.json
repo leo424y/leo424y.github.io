@@ -1,0 +1,15 @@
+{
+  "topic": "Harm_reduction",
+  "markdown_files": 79,
+  "by_folder": {
+    "data": 18,
+    "note": 10,
+    "idea": 8,
+    "term": 37,
+    "moc": 5
+  },
+  "root_guide": "Harm_reduction.md",
+  "missing_wikilinks": [],
+  "files_not_directly_linked_from_root": [],
+  "bad_code_fences": []
+}
